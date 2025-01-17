@@ -12,11 +12,14 @@ date: December 30th, 2024
 * released 1887 by L. L. Zamenhof, Poland (at the time occupied by Russia)
 * number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started
   to learn"
-* language code: *eo*, *epo* (lots of localized software: wordpress, hunspell, …)
+* language code: *eo*, *epo* (lots of localized software: WordPress, Hunspell, …)
+
+### Language features
 
 * phonetic alphabet
-* ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, acient Greek, Hebrew)
+* ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, ancient Greek, Hebrew)
 * simplistic grammar
+* word building system
 
 
 ## Sample text
@@ -39,22 +42,22 @@ lasta tago de la kongreso, do ni ĉi-vespere jam devas forveturi.
 
 ## The alphabet
 
-Straight forward latin alphabet with the following quirks
+Straight forward Latin alphabet with the following quirks
 
 * no "w" – "v" is used instead (Vindozo)
 * no "x" – "ks" is used instead (Linukso)
 * no "y" – "i" is used instead
-* "c" is like the german "z", "z" is like the english "z"
+* "c" is like the German "z", "z" is like the English "z"
 
 ---
 
 Some special characters
 
-* ŝ – like english "sh" like in "fish"
-* ĉ - like the "ch" in english "ouch"
-* ĝ – like the "j" in english "jungle"
-* ĵ - like the "J" in *german* "Jounalist"
-* ĥ - like the "ch" in german "Bach"
+* ŝ – like English "sh" like in "fish"
+* ĉ - like the "ch" in English "ouch"
+* ĝ – like the "j" in English "jungle"
+* ĵ - like the "J" in *German* "Jounalist"
+* ĥ - like the "ch" in German "Bach"
 * ŭ – like "u" half vowel
 
 The letters "j" ans "ŭ" are so called *half vowels*, that means they don't have
@@ -181,20 +184,20 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Correlatives
 
-|     |             | k-   | t-   | ĉ-    | nen-   |
-|:----|:------------|:-----|:-----|:------|:-------|
-|     |             | ?    | !    | *all* | *none* |
-| io  | *what*      | kio  | tio  | ĉio   | nenio  |
-| iu  | *which*     | kiu  | tiu  | ĉiu   | neniu  |
-| ia  | *what kind* | kia  | tia  | ĉia   | nenia  |
-| iel | *how*       | kiel | tiel | ĉiel  | neniel |
-| ie  | *where*     | kie  | tie  | ĉie   | nenie  |
-| iam | *when*      | kiam | tiam | ĉiam  | neniam |
-| ial | *why*       | kial | tial | ĉial  | nenial |
-| iom | *how much*  | kiom | tiom | ĉiom  | neniom |
-| ies | *whose*     | kies | ties | ĉies  | nenies |
+|     |             | ki-  | ti-  | ĉi-   | i-     | neni-  |
+|:----|:------------|:-----|:-----|:------|:-------|:-------|
+|     |             | ?    | !    | *all* | *some* | *none* |
+| -o  | *what*      | kio  | tio  | ĉio   | io     | nenio  |
+| -u  | *which*     | kiu  | tiu  | ĉiu   | iu     | neniu  |
+| -a  | *what kind* | kia  | tia  | ĉia   | ia     | nenia  |
+| -el | *how*       | kiel | tiel | ĉiel  | iel    | neniel |
+| -e  | *where*     | kie  | tie  | ĉie   | ie     | nenie  |
+| -am | *when*      | kiam | tiam | ĉiam  | iam    | neniam |
+| -al | *why*       | kial | tial | ĉial  | ial    | nenial |
+| -om | *how much*  | kiom | tiom | ĉiom  | iom    | neniom |
+| -es | *whose*     | kies | ties | ĉies  | ies    | nenies |
 
-ĉio – everything · nenie – nowhere · ĉiel – in any way · iel – somehow
+ĉio – everything · nenie – nowhere · ĉiel – in every way · iel – somehow
 
 ## Some important "small" words
 
@@ -242,7 +245,7 @@ La kongreso estas bone organiz*it*a.
 * [StackExchange](https://esperanto.stackexchange.com)
 * [Mastodon instance](https://esperanto.masto.host)
 * [Amikumu](https://amikumu.com) – an app to meet Esperanto speakers nearby
-* [Pasporta servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
+* [Pasporta Servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
 
 ## Music
 
@@ -274,7 +277,7 @@ La kongreso estas bone organiz*it*a.
 * [Esperanto world
   congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
 * [International Youth
-  Congres](https://en.wikipedia.org/wiki/International_Youth_Congress)
+  Congress](https://en.wikipedia.org/wiki/International_Youth_Congress)
 * [Esperanto summer studies](https://ses.ikso.net)
 * [Esperanto youth week](http://jes.pej.pl)
 
