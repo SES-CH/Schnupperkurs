@@ -312,6 +312,6 @@ AESB — aktualigita Esperanto-Societo Bern
 
 ---
 
-Koran dankon – Thank you very much
+Koran dankon – Herzlichen Dank!
 
 ![https://github.com/c3esperanto/kurseto](images/qr-code.svg){ width=25em, height=25em }
