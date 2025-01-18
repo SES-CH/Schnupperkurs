@@ -296,14 +296,19 @@ La kongreso estas bone organiz*it*a.
 mehr: [Eventa Servo](https://eventaservo.org/)
 
 
-# Follow up …
+# Kontakt
 
-## … further discussion at the congress
+## Esperanto in Bern
 
-* Meet us at our assembly
-* Contact us [@evaf@mastodon.art](https://mastodon.art/@evaf),
-  [@johmue@chaos.social](https://chaos.social/deck/@johmue)
-* … or toot to `#38c3eo`
+AESB — aktualigita Esperanto-Societo Bern
+
+## Esperanto in der Schweiz
+
+- SES — [Svisa Esperanto-Societo](https://svisa-esperanto-societo.ch/)
+- [CDELI](https://www.cdeli.org) — Dokumentations-Zentrum in La Chaux-de-Fonds
+- KCE
+- Granda Ursino — Privatschule
+- diverse lokale Klubs, Vereine, Gesellschaften
 
 ---
 
