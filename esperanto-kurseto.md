@@ -27,7 +27,7 @@ Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
 * language code: *eo*, *epo*
   * viel localized Software: WordPress, Hunspell, …
 
-### Language features
+### Sprach-Eigenschaften
 
 * phonetisches Alphabet
 * ⅔ der Wortstämme romanisch, ⅓ germanisch (dazu slawisch, altgriechisch, hebräisch)
@@ -44,7 +44,7 @@ Nun mi estas en Berno por prelegi iome pri Esperanto.
 
 # Alphabet und Aussprache
 
-## Rules
+## Aussprache-Regeln
 
 * bijektive Abbildung zwischen Schreibweise und Aussprache
 * Betonung auf der zweitletzten Silbe
@@ -98,7 +98,7 @@ bilden aber keine eigenen Silben, sondern Diphthonge.
 
 ## Verben
 
-Verb endings
+Verb-Endungen
 
 * Infinitiv: *-i* (esti, nomiĝi, plaĉi)
 * Gegenwart: *-as* (estas, nomiĝas, plaĉas)
@@ -211,7 +211,7 @@ Hamburgo estas grandega urbo. – Langenthal estas malgranda urbo.
 | -om | 🔢            | kiom | tiom | ĉiom  | iom    | neniom |
 | -es | 🏷            | kies | ties | ĉies  | ies    | nenies |
 
-ĉio – everything · nenie – nowhere · ĉiel – in every way · iel – somehow
+ĉio – alles · nenie – nirgends · ĉiel – auf jede Weise · iel – irgendwie (auf irgendeine Weise)
 
 ## Wichtige "kleine" Wörter
 
@@ -258,14 +258,14 @@ La kongreso estas bone organiz*it*a.
 * [reddit](https://reddit.com/r/esperanto)
 * [StackExchange](https://esperanto.stackexchange.com)
 * [Mastodon instance](https://esperanto.masto.host)
-* [Amikumu](https://amikumu.com) – an app to meet Esperanto speakers nearby
-* [Pasporta Servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
+* [Amikumu](https://amikumu.com) – App, um mit gleichsprachige in der Nähe zu Chatten
+* [Pasporta Servo](https://pasportaservo.org) – Couch Surfing für Esperantist:innen
 
 ## Musik
 
 * [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
-* [Vinilkosmo – Music label](https://www.vinilkosmo-mp3.com/en/)
-* [Song lyrics](http://kantaro.ikso.net/)
+* [Vinilkosmo – Musik-Label](https://www.vinilkosmo-mp3.com/en/)
+* [Song-Texte](http://kantaro.ikso.net/)
 * [Eternan lumon - Jonny M - Album "Regestilo"](https://www.youtube.com/watch?v=8J9jz9VpUsI)
 * [Samideano - ETERNE RIMA (Tokio/Tokyo)](https://www.youtube.com/watch?v=PrHU_lICydA)
 * [Abatejo – Amon mi bezonas](https://www.youtube.com/watch?v=dA-WdEcMacw)
@@ -282,18 +282,16 @@ La kongreso estas bone organiz*it*a.
 ## Videos, Podcasts usw.
 
 * [Studio](http://novajhoj.weebly.com/)
-* [kern.punkto](https://kern.punkto.info) – our own podcast
+* [kern.punkto](https://kern.punkto.info) – Podcast von Eva und Johannes
 * [Esperanto natives](https://www.youtube.com/watch?v=UzDS2WyemBI)
 * [TEJO Esperanto](https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw/videos)
 
 ## Kongresse, Treffen (Auswahl)
 
-* [Esperanto world
-  congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
-* [International Youth
-  Congress](https://en.wikipedia.org/wiki/International_Youth_Congress)
-* [Esperanto summer studies](https://ses.ikso.net)
-* [Esperanto youth week](http://jes.pej.pl)
+* [Esperanto-Weltkongress](https://de.wikipedia.org/wiki/Esperanto-Weltkongress)
+* [Internationaler Esperanto-Jugendkongress](https://www.wikidata.org/wiki/Q26706)
+* [Sommer-Esperanto-Studienwoche](https://ses.ikso.net)
+* [Jugend-Esperanto-Woche](https://www.wikidata.org/wiki/Q25847)
 
 mehr: [Eventa Servo](https://eventaservo.org/)
 
