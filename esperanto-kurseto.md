@@ -1,144 +1,158 @@
 ---
-author: Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
-title: 38c3 Esperanto course
-subtitle: A small insight into the constructed living language Esperanto
-date: December 30th, 2024
+author: Rafaelo Daŝgupto (Raphael Das Gupta)
+title: Esperanto-Schnupperkurs für Hacker:innen
+subtitle: ein Einblick in die lebende Plansprache Esperanto
+date: 2025-01-18
 ---
 
-# Introduction
+## Basierend auf
+
+«38c3 Esperanto course»
+
+von
+
+Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
+
+[github.com/c3esperanto/kurseto](https://github.com/c3esperanto/kurseto)
+
+
+# Einleitung
 
 ## Quick facts
 
-* released 1887 by L. L. Zamenhof, Poland (at the time occupied by Russia)
-* number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started
-  to learn"
-* language code: *eo*, *epo* (lots of localized software: WordPress, Hunspell, …)
+* veröffentlicht 1887 durch L. L. Zamenhof,  
+  Polen (damals Teil des russischen Zarenreichs)
+* Anzahl Nutzende:  
+  $10^3$ Muttersprachler:innen, $10^5$ fließend, $10^6$ «angefangen zu lernen»
+* language code: *eo*, *epo*
+  * viel localized Software: WordPress, Hunspell, …
 
 ### Language features
 
-* phonetic alphabet
-* ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, ancient Greek, Hebrew)
-* simplistic grammar
-* word building system
+* phonetisches Alphabet
+* ⅔ der Wortstämme romanisch, ⅓ germanisch (dazu slawisch, altgriechisch, hebräisch)
+* simple Grammatik
+* Wort·bau·system
 
 
-## Sample text
+## Beispieltext
 
-Ni venis al Hamburgo antaŭ tri tagoj por partopreni la kongreson de la
-ĥaoskomputila klubo. Estas nia 8a tia kongreso kaj ni ege ĝuas ĝin. Ni eĉ havas
-nian propran asembleon kun interesa LED-instalaĵo. Bedaŭrinde estas jam la
-lasta tago de la kongreso, do ni ĉi-vespere jam devas forveturi.
+Mi iris al Hamburgo antaŭ tri semajnoj por partopreni la Ĥaos-Komunikadan Kongreson. Estis mia 8a tia kongreso kaj mi ege ĝuis ĝin. Esperantistoj eĉ havis siajn propran asembleon kun interesa LED-instalaĵo.
+
+Nun mi estas en Berno por prelegi iome pri Esperanto.
 
 
-# Alphabet and phonetics
+# Alphabet und Aussprache
 
 ## Rules
 
-* bijective mapping between spelling and phonetics
-* stress on second last syllable
-* exactly one syllable for every vowel
-* no long or short vowels
+* bijektive Abbildung zwischen Schreibweise und Aussprache
+* Betonung auf der zweitletzten Silbe
+* genau eine Silbe pro Vokal
+* keine langen oder kurzen Vokale
 
 
-## The alphabet
+## Das Alphabet
 
-Straight forward Latin alphabet with the following quirks
+Basierend auf dem lateinischen Alphabet, **aber**
 
-* no "w" – "v" is used instead (Vindozo)
-* no "x" – "ks" is used instead (Linukso)
-* no "y" – "i" is used instead
-* "c" is like the German "z", "z" is like the English "z"
+* kein "w" – nur "v" (Vindozo)
+* kein "x" – stattdessen "ks" (Linukso)
+* kein "y" – nur "i"
+* "c" wie deutsches "z"
+* "z" wie englisches "z" (stimmhaft)
 
 ---
 
-Some special characters
+Esperanto-spezifische Buchstaben
 
-* ŝ – like English "sh" like in "fish"
-* ĉ - like the "ch" in English "ouch"
-* ĝ – like the "j" in English "jungle"
-* ĵ - like the "J" in *German* "Jounalist"
-* ĥ - like the "ch" in German "Bach"
-* ŭ – like "u" half vowel
+* ŝ – wie "sch" in "**sch**ön"
+* ĉ – wie "tsch" in "**Tsch**echien"
+* ĝ – wie "Dsch" in "**Dsch**ungel" (stimmhaft)
+* ĵ – wie "J" in "**J**ounalist"
+* ĥ – wie "ch" in "Ba**ch**"
+* ŭ – wie "u" (Halbvokal)
 
-The letters "j" ans "ŭ" are so called *half vowels*, that means they don't have
-a syllable on their own but form a diphthong.
-
-
-# Some grammar basics
-
-## Personal pronouns
-
-singular:
-
-* mi
-* vi
-* li/ŝi/ĝi/oni
-
-plural:
-
-* ni
-* vi
-* ili
+Die Buchstaben "j" und "ŭ" sind sogenannte "Halbvokale".
+Sie werden fast wie die Vokale "i" und "u" ausgesprochen,
+bilden aber keine eigenen Silben, sondern Diphthonge.
 
 
-## Verbs
+# Grundlagen der Grammatik
+
+## Personalpronomen
+
++---+-----+-------+
+|   | $1$ | $> 1$ |
++===+:===:+:=====:+
+|1. | mi  | ni    |
++---+-----+-------+
+|2. |    vi       |
++---+-----+-------+
+|   | ♂ li|       |
+|3. | ♀ ŝi| ili   |
+|   | ⚧ ri|       |
++---+-----+-------+
+|?  |    oni      |
++---+-------------+
+
+## Verben
 
 Verb endings
 
-* Infinitive: *-i* (esti, nomiĝi, plaĉi)
-* Present tense: *-as* (estas, nomiĝas, plaĉas)
-* Past tense: *-is* (estis, nomiĝis, plaĉis)
-* Future tense: *-os* (estos, nomiĝos, plaĉos)
-* Conditional tense: *-us* (estus, nomiĝus, plaĉus)
-* Imperative: *-u* (estu, nomiĝu, plaĉu)
+* Infinitiv: *-i* (esti, nomiĝi, plaĉi)
+* Gegenwart: *-as* (estas, nomiĝas, plaĉas)
+* Vergangenheit: *-is* (estis, nomiĝis, plaĉis)
+* Zukunft: *-os* (estos, nomiĝos, plaĉos)
+* konditional / irreal: *-us* (estus, nomiĝus, plaĉus)
+* Wunsch / Befehl: *-u* (estu, nomiĝu, plaĉu)
 
 vidi, aŭdi, ami, manĝi, trinki, drinki, …
 
 Mi amas vin. – Ni trinkas ĉunkon. – Ili manĝas picon.
 
 
-## Nouns
+## Nomen
 
 * *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
 * plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
 
 
-## Adjectives
+## Adjektive
 
 * *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
 * plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
 
 Hamburgo estas granda urbo. – Hamburgo estas bela.
 
-## Derived adverbs
+## abgeleitete Adverbien
 
 * *-e* (bele, grande, ruĝe, verde, kongrese, dolĉe, plaĉe)
 
 La kanto estas bel*a* kaj ŝi bel*e* kantis ĝin.
 
-## Yes/No questions
+## Ja/Nein-Fragen
 
 * **Ĉu** vi ŝatas la kongreson?
 * *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatas la kongreson.
 
-## Accusative
+## Akkusativ
 
 *-n*
 
-Marks the direct object. Examples:
+Markiert das direkte Objekt. Beispiele:
 
 * Mi amas vi*n*
 * Ĉu vi ŝatas la kongreso*n*?
 * Ŝi manĝas dolĉaj*n* pomoj*n*.
 
+Hat noch weitere Verwendungen, z.B. Ort zu Richtung/Ziel machen:
 
-Can also do other things, e.g. indicate direction instead of location:
-
-* Mi dancas en la dancejo. — I am dancing in the dancing room.
-* Mi dancas en la dancejon. — I am dancing **into** the dancing room.
+* Mi dancas en la dancejo. — Ich tanze **im** Tanzklub.
+* Mi dancas en la dancejo**n**. — Ich tanze **in den** Tanzklub [hinein].
 
 
-## Esperanto avoids ambiguities
+## Esperanto vermeidet Mehrdeutigkeit
 
 :::::::::::::: {.columns}
 ::: {.column width="40%"}
@@ -152,74 +166,74 @@ Can also do other things, e.g. indicate direction instead of location:
 :::
 ::::::::::::::
 
-## Affixes
+## Affixe (Vor- und Nachsilben)
 
-* *-eg-*: granda → grand*eg*a — big → huge
-* *mal-*: granda → *mal*granda – big → small
+* *-eg-*: granda → grand*eg*a — groß → riesig
+* *mal-*: granda → *mal*granda – groß → klein
 
-Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
+Hamburgo estas grandega urbo. – Langenthal estas malgranda urbo.
 
 
 ## The power of affixes
 
 |        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
 |:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
-|        |         | *female*   | *male*      | *offspring*| *group*    | *place*    | *profession*|
-| ŝafo   | *sheep* | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
-| hundo  | *dog*   | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
-| bovo   | *cow*   | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
-| ĉevalo | *horse* | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
+|        |         | ♀️          | ♂️           | 👶         | {⚫⚫⚫⚫} | 🏠 📍 🛒  | 👷          |
+| ŝafo   | 🐑      | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
+| hundo  | 🐕‍🦺      | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
+| bovo   | 🐄      | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
+| ĉevalo | 🐎      | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
 
 ---
 
 |        |         | -il-       | -ej-       | -ist-        | -ind-       | -em-       | -ul-         |
 |:-------|:--------|:-----------|:-----------|:-------------|:------------|:-----------|:-------------|
-|        |         | *tool*     | *place*    | *profession* | *worth*     | *inclined* | *person*     |
-| lerni  | *learn* | lern*il*o  | lern*ej*o  | lern*ist*o   | lern*ind*a  | lern*em*a  | lernem*ul*o  |
-| manĝi  | *eat*   | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o   | manĝ*ind*a  | manĝ*em*a  | manĝem*ul*o  |
-| muziko | *music* | muzik*il*o | muzik*ej*o | muzik*ist*o  | muzik*ind*a | muzik*em*a | muzikem*ul*o |
-| naĝi   | *swim*  | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o    | naĝ*ind*a   | naĝ*em*a   | naĝem*ul*o   |
-| haki   | *hack*  | hak*il*o   | hak*ej*o   | hak*ist*o    | hak*ind*a   | hak*em*a   | hakem*ul*o   |
+|        |         | 🪛🛠🔬     | 🏠📍🛒     |👷           | *-enswert*  | *Neigung*  | 🙋           |
+| lerni  | *lernen*| lern*il*o  | lern*ej*o  | lern*ist*o   | lern*ind*a  | lern*em*a  | lernem*ul*o  |
+| manĝi  | *essen* | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o   | manĝ*ind*a  | manĝ*em*a  | manĝem*ul*o  |
+| muziko | 🎼🎶    | muzik*il*o | muzik*ej*o | muzik*ist*o  | muzik*ind*a | muzik*em*a | muzikem*ul*o |
+| naĝi   | 🏊      | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o    | naĝ*ind*a   | naĝ*em*a   | naĝem*ul*o   |
+| haki   | 🪓 / 🧑‍💻 | hak*il*o   | hak*ej*o   | hak*ist*o    | hak*ind*a   | hak*em*a   | hakem*ul*o   |
 
 
-## Correlatives
+## Korrelative — tabelvortoj
 
-|     |             | ki-  | ti-  | ĉi-   | i-     | neni-  |
-|:----|:------------|:-----|:-----|:------|:-------|:-------|
-|     |             | ?    | !    | *all* | *some* | *none* |
-| -o  | *what*      | kio  | tio  | ĉio   | io     | nenio  |
-| -u  | *which*     | kiu  | tiu  | ĉiu   | iu     | neniu  |
-| -a  | *what kind* | kia  | tia  | ĉia   | ia     | nenia  |
-| -el | *how*       | kiel | tiel | ĉiel  | iel    | neniel |
-| -e  | *where*     | kie  | tie  | ĉie   | ie     | nenie  |
-| -am | *when*      | kiam | tiam | ĉiam  | iam    | neniam |
-| -al | *why*       | kial | tial | ĉial  | ial    | nenial |
-| -om | *how much*  | kiom | tiom | ĉiom  | iom    | neniom |
-| -es | *whose*     | kies | ties | ĉies  | ies    | nenies |
+|     |               | ki-  | ti-  | ĉi-   | i-     | neni-  |
+|:----|:--------------|:-----|:-----|:------|:-------|:-------|
+|     |               | ❓   | ❗   | 🌐    | ✅🤷   | 🚫     |
+| -o  | 📦            | kio  | tio  | ĉio   | io     | nenio  |
+| -u  | *welch-* / 🙋 | kiu  | tiu  | ĉiu   | iu     | neniu  |
+| -a  | 🟢🟥💛🔷      | kia  | tia  | ĉia   | ia     | nenia  |
+| -el | 🐌 / 🏃       | kiel | tiel | ĉiel  | iel    | neniel |
+| -e  | 🗺📍          | kie  | tie  | ĉie   | ie     | nenie  |
+| -am | 🗓️ 🕰         | kiam | tiam | ĉiam  | iam    | neniam |
+| -al | 💣 ⟹ 💥      | kial | tial | ĉial  | ial    | nenial |
+| -om | 🔢            | kiom | tiom | ĉiom  | iom    | neniom |
+| -es | 🏷            | kies | ties | ĉies  | ies    | nenies |
 
 ĉio – everything · nenie – nowhere · ĉiel – in every way · iel – somehow
 
-## Some important "small" words
+## Wichtige "kleine" Wörter
 
-* kaj – and
-* aŭ – or
-* la – *definite article*
-* al – to
-* de – from/of
-* ke – that *(as a conjunction, **not** as pronoun)*
+* kaj – ⋀ (`&&`)
+* aŭ – ⋁ (`||`)
+* la – *bestimmter Artikel*
+* al – an / zu / nach / *(Dativ-Objekt)*
+* de – von (Zugehörigkeit / Besitz / Herkunft / Sorte)
+* ke – dass
 * en – in
-* el – out (of)
-* da – of *(to indicate a quantity)*
-* kun – with · sen – without
+* el – aus (Herkunft, Material oder Gesamtheit)
+* da – von *(Mengenangabe)*
+* kun – mit · sen – ohne
 * …
 
 
-## Participles
+## Partizipien
 
-|         | present | past  | future |
-|---------|---------|-------|--------|
-| active  | -ant-   | -nt- | -ont-  |
-| passive | -at-    | -it   | -ot-   |
+|        | gleichzeitig | zuvor  | danach |
+|--------|--------------|-------|--------|
+| aktiv  | -ant-        | -int- | -ont-  |
+| passiv | -at-         | -it   | -ot-   |
 
 La pas*int*a kongreso okazis en 2023.
 
@@ -228,9 +242,9 @@ La ven*ont*a kongreso okazos en 2025.
 La kongreso estas bone organiz*it*a.
 
 
-# Resources
+# Links
 
-## Learning
+## Lernen & Nachschlagen
 
 * [Duolingo](https://www.duolingo.com/course/eo/en)
 * [lernu](https://lernu.net)
@@ -238,7 +252,7 @@ La kongreso estas bone organiz*it*a.
 * [Online dictionary (multilingual)](https://reta-vortaro.de)
 * [Online dictionary](https://vortaro.net)
 
-## Groups
+## Austausch miteinander
 
 * [Telegram](https://telegramo.org)
 * [reddit](https://reddit.com/r/esperanto)
@@ -247,7 +261,7 @@ La kongreso estas bone organiz*it*a.
 * [Amikumu](https://amikumu.com) – an app to meet Esperanto speakers nearby
 * [Pasporta Servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
 
-## Music
+## Musik
 
 * [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
 * [Vinilkosmo – Music label](https://www.vinilkosmo-mp3.com/en/)
@@ -265,14 +279,14 @@ La kongreso estas bone organiz*it*a.
 * [Gijom - La postrompiĝa temp'](https://www.youtube.com/watch?v=-XiqpAjPd8A)
 * [Gijom - Kortuŝa Eksces'](https://www.youtube.com/watch?v=WencRDLDJVY)
 
-## Videos podcasts etc.
+## Videos, Podcasts usw.
 
 * [Studio](http://novajhoj.weebly.com/)
 * [kern.punkto](https://kern.punkto.info) – our own podcast
 * [Esperanto natives](https://www.youtube.com/watch?v=UzDS2WyemBI)
 * [TEJO Esperanto](https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw/videos)
 
-## Congresses, meetups (small selection)
+## Kongresse, Treffen (Auswahl)
 
 * [Esperanto world
   congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
@@ -280,6 +294,8 @@ La kongreso estas bone organiz*it*a.
   Congress](https://en.wikipedia.org/wiki/International_Youth_Congress)
 * [Esperanto summer studies](https://ses.ikso.net)
 * [Esperanto youth week](http://jes.pej.pl)
+
+mehr: [Eventa Servo](https://eventaservo.org/)
 
 
 # Follow up …
