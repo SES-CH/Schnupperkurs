@@ -5,6 +5,12 @@ subtitle: ein Einblick in die lebende Plansprache Esperanto
 date: 2025-01-18
 ---
 
+## Folien online
+
+[ses-ch.github.io/Schnupperkurs](https://ses-ch.github.io/Schnupperkurs/)
+
+Quellcode: [github.com/SES-CH/Schnupperkurs](https://github.com/SES-CH/Schnupperkurs)
+
 ## Basierend auf
 
 «38c3 Esperanto course»
@@ -314,4 +320,4 @@ AESB — aktualigita Esperanto-Societo Bern
 
 Koran dankon – Herzlichen Dank!
 
-![https://github.com/c3esperanto/kurseto](images/qr-code.svg){ width=25em, height=25em }
+[github.com/SES-CH/Schnupperkurs](https://github.com/SES-CH/Schnupperkurs)
