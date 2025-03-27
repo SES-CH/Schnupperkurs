@@ -96,8 +96,11 @@ bilden aber keine eigenen Silben, sondern Diphthonge.
 |2. |    vi       |
 +---+-----+-------+
 |   | ♂ li|       |
+|   +-----+       |
 |3. | ♀ ŝi| ili   |
+|   +-----+       |
 |   | ☐ ĝi|       |
+|   +-----+       |
 |   | ⚧ ri|       |
 +---+-----+-------+
 |?  |    oni      |
