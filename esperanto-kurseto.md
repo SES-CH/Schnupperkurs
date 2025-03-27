@@ -97,6 +97,7 @@ bilden aber keine eigenen Silben, sondern Diphthonge.
 +---+-----+-------+
 |   | ♂ li|       |
 |3. | ♀ ŝi| ili   |
+|   | ☐ ĝi|       |
 |   | ⚧ ri|       |
 +---+-----+-------+
 |?  |    oni      |
