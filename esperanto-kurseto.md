@@ -101,10 +101,12 @@ bilden aber keine eigenen Silben, sondern Diphthonge.
 |   +------+       |
 |   | ☐ ĝi |       |
 |   +------+       |
-|   | ⚧ ri |       |
+|   | ⚧ ri*|       |
 +---+------+-------+
 |?  |    oni       |
 +---+--------------+
+
+\* bislang inoffiziell
 
 ## Verben
 
