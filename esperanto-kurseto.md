@@ -45,7 +45,7 @@ Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
 
 SOSETH estas studenta asocio, kiu dum la instruaj semajnoj de la semestro montras filmon preskaŭ ĉiun merkredon. Hodiaŭ ĝi montris filmon en Esperanto.
 
-Venontan semajnon SOSETH ne montros filmon, por ke homoj povu spekti la filmojn de FLiK. FLiK estas subĉiela kina-evento.
+Venontan semajnon SOSETH ne montros filmon, por ke homoj povu spekti la filmojn de FLiK. FLiK estas subĉiela kino-evento.
 
 # Alphabet und Aussprache
 
