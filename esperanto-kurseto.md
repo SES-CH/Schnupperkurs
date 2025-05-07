@@ -1,8 +1,8 @@
 ---
 author: Rafaelo Daŝgupto (Raphael Das Gupta)
-title: Esperanto-Schnupperkurs für Hacker:innen
+title: Esperanto-Schnupperkurs
 subtitle: ein Einblick in die lebende Plansprache Esperanto
-date: 2025-01-18
+date: 2025-05-07
 ---
 
 ## Folien online
@@ -43,10 +43,9 @@ Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
 
 ## Beispieltext
 
-Mi iris al Hamburgo antaŭ tri semajnoj por partopreni la Ĥaos-Komunikadan Kongreson. Estis mia 8a tia kongreso kaj mi ege ĝuis ĝin. Esperantistoj eĉ havis siajn propran asembleon kun interesa LED-instalaĵo.
+SOSETH estas studenta asocio, kiu dum la instruaj semajnoj de la semestro montras filmon preskaŭ ĉiun merkredon. Hodiaŭ ĝi montris filmon en Esperanto.
 
-Nun mi estas en Berno por prelegi iome pri Esperanto.
-
+Venontan semajnon SOSETH ne montros filmon, por ke homoj povu spekti la filmojn de FLiK. FLiK estas subĉiela kina-evento.
 
 # Alphabet und Aussprache
 
@@ -126,27 +125,27 @@ Mi amas vin. – Ni trinkas ĉunkon. – Ili manĝas picon.
 
 ## Nomen
 
-* *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
-* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
+* *-o* (universitato, filmo, kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
+* plural: *-j* (universitatoj, filmoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
 
 
 ## Adjektive
 
-* *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
-* plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
+* *-a* (bela, granda, ruĝa, verda, universitata, filmaj, dolĉa, plaĉa)
+* plural: *-j* (belaj, grandaj, ruĝaj, verdaj, universitataj, filmaj, dolĉaj, plaĉaj)
 
-Hamburgo estas granda urbo. – Hamburgo estas bela.
+Hamburgo estas granda urbo. – Rapersvilo estas bela.
 
 ## abgeleitete Adverbien
 
-* *-e* (bele, grande, ruĝe, verde, kongrese, dolĉe, plaĉe)
+* *-e* (bele, grande, ruĝe, verde, universitate, filme, dolĉe, plaĉe)
 
 La kanto estas bel*a* kaj ŝi bel*e* kantis ĝin.
 
 ## Ja/Nein-Fragen
 
-* **Ĉu** vi ŝatas la kongreson?
-* *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatas la kongreson.
+* **Ĉu** vi ŝatas la filmon?
+* *Jes*, mi ŝatas la filmon. / *Ne*, mi ne ŝatas la filmon.
 
 ## Akkusativ
 
@@ -155,7 +154,7 @@ La kanto estas bel*a* kaj ŝi bel*e* kantis ĝin.
 Markiert das direkte Objekt. Beispiele:
 
 * Mi amas vi*n*
-* Ĉu vi ŝatas la kongreso*n*?
+* Ĉu vi ŝatas la filmo*n*?
 * Ŝi manĝas dolĉaj*n* pomoj*n*.
 
 Hat noch weitere Verwendungen, z.B. Ort zu Richtung/Ziel machen:
@@ -183,7 +182,7 @@ Hat noch weitere Verwendungen, z.B. Ort zu Richtung/Ziel machen:
 * *-eg-*: granda → grand*eg*a — groß → riesig
 * *mal-*: granda → *mal*granda – groß → klein
 
-Hamburgo estas grandega urbo. – Langenthal estas malgranda urbo.
+Tokio estas grandega urbo. – Bielo (Biel/Bienne) kaj Zugo (Zug) estas malgrandaj urboj.
 
 
 ## The power of affixes
@@ -247,11 +246,11 @@ Hamburgo estas grandega urbo. – Langenthal estas malgranda urbo.
 | aktiv  | -ant-        | -int- | -ont-  |
 | passiv | -at-         | -it   | -ot-   |
 
-La pas*int*a kongreso okazis en 2023.
+La pas*int*a film-vespero de SOSETH okazis antaŭ semajno.
 
-La ven*ont*a kongreso okazos en 2025.
+La ven*ont*a film-vespero de SOSETH okazos post du semajnoj.
 
-La kongreso estas bone organiz*it*a.
+La nuna prelego estas bone organiz*it*a.
 
 # Übung
 
@@ -311,9 +310,9 @@ mehr: [Eventa Servo](https://eventaservo.org/)
 
 # Kontakt
 
-## Esperanto in Bern
+## Esperanto in Zürich
 
-AESB — aktualigita Esperanto-Societo Bern
+[Esperanto-Societo Zuriko](https://esperanto.ch/zuriko/) (ESZ)
 
 ## Esperanto in der Schweiz
 

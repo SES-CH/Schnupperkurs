@@ -1,6 +1,4 @@
-# Esperanto-Schnupperkurs für Hacker:innen
-
-## 
+# Esperanto-Schnupperkurs
 
 ## basierend auf
 
