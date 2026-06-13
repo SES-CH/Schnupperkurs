@@ -33,7 +33,7 @@ date: 12. März 2026
   * ⅓ germanisch
   * vereinzelt slawisch, altgriechisch, hebräisch
 * simple Grammatik
-* mächtiges Wortbildungssystem
+* mächtiges Wort·bau·system
 
 
 ## Beispieltext
