@@ -28,8 +28,8 @@ date: 12. März 2026
 ## Spracheigenschaften
 
 * phonetisches Alphabet
-* Europäisches Vokabular
-  * ⅔ der Wortstämme romanisch
+* Herkunft der Wortstämme
+  * ⅔ romanisch
   * ⅓ germanisch
   * vereinzelt slawisch, altgriechisch, hebräisch
 * simplistische Grammatik

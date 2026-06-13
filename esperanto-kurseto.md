@@ -28,8 +28,8 @@ date: December 29th, 2025
 ## Language features
 
 * phonetic alphabet
-* European vocabulary
-  * ⅔ of word roots are Romanic
+* origin of word roots
+  * ⅔ Romanic
   * ⅓ Germanic
   * some Slavic, ancient Greek, Hebrew
 * simplistic grammar
