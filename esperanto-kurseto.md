@@ -11,7 +11,7 @@ date: December 29th, 2025
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 * released 1887 by L. L. Zamenhof, Poland (at the time occupied by Russia)
-* number of speakers:
+* number of users:
   * $10^3$ natives
   * $10^5$ fluent regulars
   * $10^6$ "started to learn"

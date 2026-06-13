@@ -11,7 +11,7 @@ date: 12. März 2026
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 * veröffentlicht 1887 von L. L. Zamenhof, Polen (damals russisch besetzt)
-* Anzahl der Sprecher:
+* Anzahl der Nutzenden:
   * $10^3$ Muttersprachler
   * $10^5$ fließende regelmäßige Sprecher
   * $10^6$ "mal angefangen zu lernen"
