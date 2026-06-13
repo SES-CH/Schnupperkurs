@@ -16,6 +16,8 @@ date: 12. März 2026
   * $10^5$ fließende regelmäßige Sprecher:innen
   * $10^6$ "mal angefangen zu lernen"
 * weltweit gesprochen, leichter Fokus auf Europa
+* Language-Code: `eo`, `epo`
+  * in viel Software unterstützt: WordPress, Hunspell, LibreOffice, Firefox, KDE, …
 :::
 ::: {.column width="40%"}
 ![](images/zamenhof.jpg){.sideimage}
