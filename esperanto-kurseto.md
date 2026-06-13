@@ -1,9 +1,25 @@
 ---
-author: Eva 🇸🇰 & Johannes  🇩🇪
-title: 39c3 Esperanto course
-subtitle: A small insight into the constructed living language Esperanto
-date: December 29th, 2025
+author: Rafaelo Daŝgupto (Raphael Das Gupta)
+title: Esperanto-Schnupperkurs
+subtitle: ein Einblick in die lebende Plansprache Esperanto
+date: 2026-06-13
 ---
+
+## slides online
+
+https://das-g.github.io/c3-esperanto-kurseto
+
+https://das-g.github.io/c3-esperanto-kurseto/index-de.html
+
+## based on
+
+«39c3 Esperanto course»
+
+by
+
+Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
+
+[github.com/c3esperanto/kurseto](https://github.com/c3esperanto/kurseto)
 
 # Introduction
 

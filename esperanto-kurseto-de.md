@@ -1,9 +1,25 @@
 ---
-author: Eva 🇸🇰 & Johannes  🇩🇪
+author: Rafaelo Daŝgupto (Raphael Das Gupta)
 title: Esperanto-Schnupperkurs
-subtitle: Ein kleiner Einblick in die lebende Plansprache Esperanto
-date: 12. März 2026
+subtitle: ein Einblick in die lebende Plansprache Esperanto
+date: 2026-06-13
 ---
+
+## Folien online
+
+https://das-g.github.io/c3-esperanto-kurseto
+
+https://das-g.github.io/c3-esperanto-kurseto/index-de.html
+
+## Basierend auf
+
+«39c3 Esperanto course»
+
+von
+
+Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
+
+[github.com/c3esperanto/kurseto](https://github.com/c3esperanto/kurseto)
 
 # Einleitung
 
