@@ -32,7 +32,7 @@ date: 12. März 2026
   * ⅔ romanisch
   * ⅓ germanisch
   * vereinzelt slawisch, altgriechisch, hebräisch
-* simplistische Grammatik
+* simple Grammatik
 * mächtiges Wortbildungssystem
 
 
