@@ -52,7 +52,7 @@ kultura interŝanĝo. Ni okazigas tie ankaŭ renkontiĝojn de la loka grupo de l
 * keine langen und kurzen Vokale
 
 
-## Das Alfabet
+## Das Alphabet
 
 Übliches lateinisches Alphabet mit ein paar Änderungen
 
