@@ -16,7 +16,7 @@ date: December 29th, 2025
   * $10^5$ fluent regulars
   * $10^6$ "started to learn"
 * spoken everywhere in the world; slight focus on Europe
-* language code: *eo*, *epo*
+* language code: `eo`, `epo`
   (lots of localized software: WordPress, Hunspell, LibreOffice, Firefox, KDE, …)
 :::
 ::: {.column width="40%"}
