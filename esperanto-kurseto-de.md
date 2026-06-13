@@ -12,8 +12,8 @@ date: 12. März 2026
 ::: {.column width="60%"}
 * veröffentlicht 1887 von L. L. Zamenhof, Polen (damals russisch besetzt)
 * Anzahl der Nutzenden:
-  * $10^3$ Muttersprachler
-  * $10^5$ fließende regelmäßige Sprecher
+  * $10^3$ Muttersprachler:innen
+  * $10^5$ fließende regelmäßige Sprecher:innen
   * $10^6$ "mal angefangen zu lernen"
 * weltweit gesprochen, leichter Fokus auf Europa
 :::
@@ -282,8 +282,8 @@ La evento estas bone organiz*it*a.
 * [reddit](https://reddit.com/r/esperanto)
 * [StackExchange](https://esperanto.stackexchange.com)
 * [Mastodon instance](https://esperanto.masto.host)
-* [Amikumu](https://amikumu.com) – eine App um Esperantosprecher in der Nähe zu finden
-* [Pasporta Servo](https://pasportaservo.org) – eine Art Couchsurfing für Esperantosprecher
+* [Amikumu](https://amikumu.com) – eine App um Esperantonutzende in der Nähe zu finden
+* [Pasporta Servo](https://pasportaservo.org) – eine Art Couchsurfing für Esperantonutzende
 * [Deutsche Esperanto Bund](https://esperanto.de)
 * [Deutsche Esperanto Jugend](https://esperantojugend.de)
 * [Esperanto Weltbund](https://uea.org)
