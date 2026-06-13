@@ -7,7 +7,7 @@ date: 12. März 2026
 
 # Einleitung
 
-## Schnelle Fakten
+## Eckpunkte
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 * veröffentlicht 1887 von L. L. Zamenhof, Polen (damals russisch besetzt)
