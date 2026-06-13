@@ -38,10 +38,11 @@ date: December 29th, 2025
 
 ## Sample text
 
-Ni venis al Hamburgo antaŭ du tagoj por partopreni la kongreson de la
-ĥaoskomputila klubo. Estas nia 8a tia kongreso kaj ni ege ĝuas ĝin. Ni eĉ havas
-nian propran asembleon kun interesa LED-instalaĵo. Nun jam estas la tria tago
-de la kongreso. Tio signifas, ke ni morgaŭ jam devas forveturi.
+Hodiaŭ mi donas kurseton pri Esperanto
+kadre de KoSino en Villa Ritter.
+Villa Ritter estas junulara renkontejo kaj kulturcentro en Bielo.
+
+KoSino estas ĉiujara evento de la ĥaoskomputila klubo svisa.
 
 
 # Alphabet and phonetics

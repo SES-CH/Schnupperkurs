@@ -36,10 +36,11 @@ date: 12. März 2026
 
 ## Beispieltext
 
-Hodiaŭ ni donas kurseton pri Esperanto en DemoZ. DemoZ estas demokrata kulura
-centro en Ludwigsburg. Estas tre interesa ejo en kiu okazas multe da interesa
-kultura interŝanĝo. Ni okazigas tie ankaŭ renkontiĝojn de la loka grupo de la
-ĥaoskomputila klubo.
+Hodiaŭ mi donas kurseton pri Esperanto
+kadre de KoSino en Villa Ritter.
+Villa Ritter estas junulara renkontejo kaj kulturcentro en Bielo.
+
+KoSino estas ĉiujara evento de la ĥaoskomputila klubo svisa.
 
 
 # Alphabet und Phonetik
