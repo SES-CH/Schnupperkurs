@@ -1,6 +1,6 @@
 ---
 author: Eva 🇸🇰 & Johannes  🇩🇪
-title: Esperanto Schnupperkurs
+title: Esperanto-Schnupperkurs
 subtitle: Ein kleiner Einblick in die lebende Plansprache Esperanto
 date: 12. März 2026
 ---
