@@ -283,10 +283,10 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Partizipien
 
-|        | Gegenwart | Vergangenheit | Zukuft |
-|--------|-----------|---------------|--------|
-| aktiv  | -ant-     | -nt-          | -ont-  |
-| passiv | -at-      | -it           | -ot-   |
+|        | gleichzeitig | zuvor  | danach |
+|--------|--------------|-------|--------|
+| aktiv  | -ant-        | -int- | -ont-  |
+| passiv | -at-         | -it   | -ot-   |
 
 La pas*int*a KoSino okazis 2026.
 

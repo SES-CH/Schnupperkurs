@@ -283,7 +283,7 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Participles
 
-|         | present | past  | future |
+|         | concurrent | before  | after |
 |---------|---------|-------|--------|
 | active  | -ant-   | -nt- | -ont-  |
 | passive | -at-    | -it   | -ot-   |
