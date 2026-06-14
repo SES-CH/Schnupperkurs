@@ -150,7 +150,7 @@ Mi amas vin. – Ni trinkas ĉunkon. – Ili manĝas picon.
 * *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
 * plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
 
-Hamburgo estas granda urbo. – Hamburgo estas bela.
+Hamburgo estas granda urbo. – Bielo estas bela.
 
 ## Derived adverbs
 

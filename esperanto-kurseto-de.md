@@ -150,7 +150,7 @@ Mi amas vin. – Ni trinkas ĉunkon. – Ili manĝas picon.
 * *-a* (bela, granda, ruĝa, verda, kursa, dolĉa, plaĉa)
 * plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kursaj, dolĉaj, plaĉaj)
 
-Ludwigsburg estas bela urbo.  Stuttgart estas granda.
+Hamburgo estas granda urbo. – Bielo estas bela.
 
 ## Abgeleitete Adverbien
 
