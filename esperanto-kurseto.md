@@ -127,12 +127,12 @@ but a diphthong.
 
 Verb endings
 
-* Infinitive: *-i* (esti, nomiĝi, plaĉi)
-* Present tense: *-as* (estas, nomiĝas, plaĉas)
-* Past tense: *-is* (estis, nomiĝis, plaĉis)
-* Future tense: *-os* (estos, nomiĝos, plaĉos)
-* Conditional tense: *-us* (estus, nomiĝus, plaĉus)
-* Imperative: *-u* (estu, nomiĝu, plaĉu)
+* infinitive: *-i* (esti, nomiĝi, plaĉi)
+* present tense: *-as* (estas, nomiĝas, plaĉas)
+* past tense: *-is* (estis, nomiĝis, plaĉis)
+* future tense: *-os* (estos, nomiĝos, plaĉos)
+* conditional / irreal: *-us* (estus, nomiĝus, plaĉus)
+* wish / command: *-u* (estu, nomiĝu, plaĉu)
 
 vidi, aŭdi, ami, manĝi, trinki, drinki, …
 

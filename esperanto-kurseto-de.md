@@ -125,18 +125,18 @@ bilden aber keine eigenen Silben, sondern Diphthonge.
 
 ## Verben
 
-Verbendungen
+Verb-Endungen
 
 * Infinitiv: *-i* (esti, nomiĝi, plaĉi)
 * Gegenwart: *-as* (estas, nomiĝas, plaĉas)
 * Vergangenheit: *-is* (estis, nomiĝis, plaĉis)
 * Zukunft: *-os* (estos, nomiĝos, plaĉos)
-* Konjunktiv: *-us* (estus, nomiĝus, plaĉus)
-* Befehlsform: *-u* (estu, nomiĝu, plaĉu)
+* konditional / irreal: *-us* (estus, nomiĝus, plaĉus)
+* Wunsch / Befehl: *-u* (estu, nomiĝu, plaĉu)
 
 vidi, aŭdi, ami, manĝi, trinki, drinki, …
 
-Mi amas vin. – Ni trinkas bieron. – Ili manĝas picon.
+Mi amas vin. – Ni trinkas ĉunkon. – Ili manĝas picon.
 
 
 ## Substantive
