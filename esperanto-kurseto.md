@@ -288,11 +288,11 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 | active  | -ant-   | -nt- | -ont-  |
 | passive | -at-    | -it   | -ot-   |
 
-La pas*int*a kongreso okazis en 2024.
+La pas*int*a KoSino okazis 2026.
 
-La ven*ont*a kongreso okazos en 2026.
+La ven*ont*a KoSino okazos 2028.
 
-La kongreso estas bone organiz*it*a.
+KoSino estas bone organizita kaj organizata.
 
 
 # Resources
