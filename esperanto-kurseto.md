@@ -349,17 +349,18 @@ KoSino estas bone organizita kaj organizata.
 * [Esperanto youth week](http://jes.pej.pl)
 
 
-# Follow up …
+# Contact
 
-## … further discussion at the congress
+## Esperanto in Switzerland
 
-* Meet us at our assembly
-* Contact us [@evaf@mastodon.art](https://mastodon.art/@evaf),
-  [@johmue@chaos.social](https://chaos.social/deck/@johmue)
-* … or toot to `#39c3eo`
+- SES — [Svisa Esperanto-Societo](https://svisa-esperanto-societo.ch/)
+- [CDELI](https://www.cdeli.org) — Documentation Center in La Chaux-de-Fonds
+- KCE
+- Granda Ursino — private school
+- various local clubs, associations, societies
 
 ---
 
-Koran dankon – Thank you very much
+Koran dankon – Thank You!
 
-![https://github.com/c3esperanto/kurseto](images/qr-code.svg){ width=12em, height=12em }
+[github.com/SES-CH/Schnupperkurs](https://github.com/SES-CH/Schnupperkurs)

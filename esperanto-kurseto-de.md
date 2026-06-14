@@ -354,16 +354,19 @@ KoSino estas bone organizita kaj organizata.
 * [Esperanto Stuttgart](https://eventaservo.org/o/EO_Stuttgart)
 
 
-# Follow up …
+# Kontakt
 
-## … im Anschluss in der Kneipe
 
-* Weitere Treffen / Kurse gewünscht?
-* Kontaktiert uns [@evaf@mastodon.art](https://mastodon.art/@evaf),
-  [@johmue@chaos.social](https://chaos.social/deck/@johmue)
+## Esperanto in der Schweiz
+
+- SES — [Svisa Esperanto-Societo](https://svisa-esperanto-societo.ch/)
+- [CDELI](https://www.cdeli.org) — Dokumentations-Zentrum in La Chaux-de-Fonds
+- KCE
+- Granda Ursino — Privatschule
+- diverse lokale Klubs, Vereine, Gesellschaften
 
 ---
 
-Koran dankon – Vielen Dank
+Koran dankon – Herzlichen Dank!
 
-![https://c3esperanto.github.io/kurseto/index-de.html](images/qr-code-de.svg){ width=12em, height=12em }
+[github.com/SES-CH/Schnupperkurs](https://github.com/SES-CH/Schnupperkurs)
