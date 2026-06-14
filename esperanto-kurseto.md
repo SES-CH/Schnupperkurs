@@ -65,7 +65,7 @@ KoSino estas ĉiujara evento de la ĥaoskomputila klubo svisa.
 
 ## Rules
 
-* bijective mapping between spelling and phonetics
+* bijective mapping between letter and sound
 * stress on second last syllable
 * exactly one syllable for every vowel
 * no long or short vowels

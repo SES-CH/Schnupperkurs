@@ -65,7 +65,7 @@ KoSino estas ĉiujara evento de la ĥaoskomputila klubo svisa.
 
 ## Regeln
 
-* eineindeutige Abbildung zwischen Schrift und Laut
+* eineindeutige Abbildung zwischen Buchstabe und Laut
 * Betonung immer auf der vorletzten Wortsilbe
 * genau eine Silbe pro Vokal
 * keine langen und kurzen Vokale
