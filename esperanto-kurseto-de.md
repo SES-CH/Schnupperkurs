@@ -176,8 +176,8 @@ Markiert das direkte Objekt
 
 Andere Anwendungen z.B. Unterscheidung zwischen Ort und Richtung
 
-* Mi dancas en la dancejo. — Ich tanze auf *der* Tanzfläche
-* Mi dancas en la dancejon. — Ich tanze auf *die* Tanzfläche
+* Mi dancas en la dancejo. — Ich tanze in *der* Disko / **im** Tanzklub.
+* Mi dancas en la dancejon. — Ich tanze in *die* Disko / in **den** Tanzklub.
 
 
 ## Esperanto vermeidet Mehrdeutigkeiten
