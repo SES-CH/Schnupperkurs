@@ -206,6 +206,7 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 |        |         | -in-     | vir-     | -id-      | -ar-     | -ej-    | -ist-   |
 |:-------|:--------|:---------|:---------|:----------|:---------|:--------|:--------|
+|        |         | ♀️          | ♂️           | 👶         | {⚫⚫⚫⚫} | 🏠 📍 🛒  | 👷          |
 |        |         | *weibl.* | *männl.* | *Ableger* | *Gruppe* | *Ort*   | *Beruf* |
 | ŝafo   | *Schaf* | ?        | Widder   | Lamm      | -herde   | -stall  | Schäfer |
 | hundo  | *Hund*  | Hündin   | Rüde     | Welpe     | Rudel    | Zwinger | ?       |
@@ -217,6 +218,7 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 |        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
 |:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
 |        |         | *weibl.*   | *männl.*    | *Ableger*  | *Gruppe*   | *Ort*      | *Beruf*     |
+|        |         | ♀️          | ♂️           | 👶         | {⚫⚫⚫⚫} | 🏠 📍 🛒  | 👷          |
 | ŝafo   | *Schaf* | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
 | hundo  | *Hund*  | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
 | bovo   | *Rind*  | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |

@@ -206,6 +206,7 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 |        |         | -in-     | vir-     | -id-        | -ar-    | -ej-      | -ist-        |
 |:-------|:--------|:---------|:---------|:------------|:--------|:----------|:-------------|
+|        |         | ♀️          | ♂️           | 👶         | {⚫⚫⚫⚫} | 🏠 📍 🛒  | 👷          |
 |        |         | *female* | *male*   | *offspring* | *group* | *place*   | *profession* |
 | ŝafo   | *sheep* | ewe      | ram      | lamb        | flock   | sheepfold | shepherd     |
 | hundo  | *dog*   | bitch    | dog      | puppy       | pack    | kennel    | dog keeper   |
@@ -216,6 +217,7 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 |        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
 |:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
+|        |         | ♀️          | ♂️           | 👶         | {⚫⚫⚫⚫} | 🏠 📍 🛒  | 👷          |
 |        |         | *female*   | *male*      | *offspring*| *group*    | *place*    | *profession*|
 | ŝafo   | *sheep* | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
 | hundo  | *dog*   | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
