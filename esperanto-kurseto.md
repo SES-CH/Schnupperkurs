@@ -102,17 +102,25 @@ but a diphthong.
 
 ## Personal pronouns
 
-singular:
++---+------+-------+
+|   | $1$  | $> 1$ |
++===+:====:+:=====:+
+|1. | mi   | ni    |
++---+------+-------+
+|2. |    vi        |
++---+------+-------+
+|   | ♂ li |       |
+|   +------+       |
+|3. | ♀ ŝi | ili   |
+|   +------+       |
+|   | ☐ ĝi |       |
+|   +------+       |
+|   | ⚧ ri*|       |
++---+------+-------+
+|?  |    oni       |
++---+--------------+
 
-* mi
-* vi
-* li/ŝi/ĝi/oni ("ri" increasingly popular as gender neutral)
-
-plural:
-
-* ni
-* vi
-* ili
+\* for now unofficial
 
 
 ## Verbs

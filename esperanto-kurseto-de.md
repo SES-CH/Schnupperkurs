@@ -101,17 +101,26 @@ bilden aber keine eigenen Silben, sondern Diphthonge.
 
 ## Personalpronomen
 
-Singular:
 
-* mi
-* vi
-* li/ŝi/ĝi/oni ("ri" wird populärer als genderneutrales Pronomen)
++---+------+-------+
+|   | $1$  | $> 1$ |
++===+:====:+:=====:+
+|1. | mi   | ni    |
++---+------+-------+
+|2. |    vi        |
++---+------+-------+
+|   | ♂ li |       |
+|   +------+       |
+|3. | ♀ ŝi | ili   |
+|   +------+       |
+|   | ☐ ĝi |       |
+|   +------+       |
+|   | ⚧ ri*|       |
++---+------+-------+
+|?  |    oni       |
++---+--------------+
 
-Plural:
-
-* ni
-* vi
-* ili
+\* bislang inoffiziell
 
 
 ## Verben
