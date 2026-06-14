@@ -2,7 +2,7 @@
 author: Rafaelo Daŝgupto (Raphael Das Gupta)
 title: Esperanto-Schnupperkurs
 subtitle: ein Einblick in die lebende Plansprache Esperanto
-date: 2026-06-13
+date: 2026-06-14
 ---
 
 ## slides online
