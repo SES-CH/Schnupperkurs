@@ -208,28 +208,26 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 |        |         | -in-     | vir-     | -id-        | -ar-    | -ej-      | -ist-        |
 |:-------|:--------|:---------|:---------|:------------|:--------|:----------|:-------------|
 |        |         | ♀️          | ♂️           | 👶         | {⚫⚫⚫⚫} | 🏠 📍 🛒  | 👷          |
-|        |         | *female* | *male*   | *offspring* | *group* | *place*   | *profession* |
-| ŝafo   | *sheep* | ewe      | ram      | lamb        | flock   | sheepfold | shepherd     |
-| hundo  | *dog*   | bitch    | dog      | puppy       | pack    | kennel    | dog keeper   |
-| bovo   | *cow*   | cow      | bull     | calf        | herd    | cowshed   | cowherd      |
-| ĉevalo | *horse* | mare     | stallion | foal        | herd    | stable    | horseman     |
+| ŝafo   | 🐑      | ewe      | ram      | lamb        | flock   | sheepfold | shepherd     |
+| hundo  | 🐕‍🦺      | bitch    | dog      | puppy       | pack    | kennel    | dog keeper   |
+| bovo   | 🐄      | cow      | bull     | calf        | herd    | cowshed   | cowherd      |
+| ĉevalo | 🐎      | mare     | stallion | foal        | herd    | stable    | horseman     |
 
 ---
 
 |        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
 |:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
 |        |         | ♀️          | ♂️           | 👶         | {⚫⚫⚫⚫} | 🏠 📍 🛒  | 👷          |
-|        |         | *female*   | *male*      | *offspring*| *group*    | *place*    | *profession*|
-| ŝafo   | *sheep* | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
-| hundo  | *dog*   | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
-| bovo   | *cow*   | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
-| ĉevalo | *horse* | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
+| ŝafo   | 🐑      | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
+| hundo  | 🐕‍🦺      | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
+| bovo   | 🐄      | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
+| ĉevalo | 🐎      | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
 
 ---
 
 |        |         | -il-       | -ej-       | -ist-        | -ind-       | -em-       | -ul-         |
 |:-------|:--------|:-----------|:-----------|:-------------|:------------|:-----------|:-------------|
-|        |         | *tool*     | *place*    | *profession* | *worth*     | *inclined* | *person*     |
+|        |         | 🪛🛠🔬     | 🏠📍🛒     |👷           | *worth*  | *inclined*  | 🙋           |
 | lerni  | *learn* | lern*il*o  | lern*ej*o  | lern*ist*o   | lern*ind*a  | lern*em*a  | lernem*ul*o  |
 | manĝi  | *eat*   | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o   | manĝ*ind*a  | manĝ*em*a  | manĝem*ul*o  |
 | muziko | *music* | muzik*il*o | muzik*ej*o | muzik*ist*o  | muzik*ind*a | muzik*em*a | muzikem*ul*o |
@@ -242,30 +240,30 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 |     | ki-       | ti-           | ĉi-         | i-         | neni-    |
 |:----|:----------|:--------------|:------------|:-----------|:---------|
 |     | ?         | !             | *all*       | *some*     | *none*   |
-| -o  | what      | that          | everything  | something  | nothing  |
-| -u  | which/who | that (one)    | all         | some       | no(-one) |
-| -a  | what kind | that kind     | all kind    | some kind  | no kind  |
-| -el | how       | thus          | anyhow      | somehow    | no way   |
-| -e  | where     | there         | everywhere  | somewhere  | nowhere  |
-| -am | when      | then          | always      | some time  | never    |
-| -al | why       | therefore     | f every rsn | f some rsn | f no rsn |
-| -om | how much  | that much     | all         | some       | none     |
-| -es | whose     | that person's | everyone's  | someone's  | no-one's |
+| 📦            | what      | that          | everything  | something  | nothing  |
+| *welch-* / 🙋 | which/who | that (one)    | all         | some       | no(-one) |
+| 🟢🟥💛🔷      | what kind | that kind     | all kind    | some kind  | no kind  |
+| 🐌 / 🏃       | how       | thus          | anyhow      | somehow    | no way   |
+| 🗺📍          | where     | there         | everywhere  | somewhere  | nowhere  |
+| 🗓️ 🕰         | when      | then          | always      | some time  | never    |
+| 💣 ⟹ 💥       | why       | therefore     | f every rsn | f some rsn | f no rsn |
+| 🔢            | how much  | that much     | all         | some       | none     |
+| 🏷            | whose     | that person's | everyone's  | someone's  | no-one's |
 
 ---
 
 |     |             | ki-  | ti-  | ĉi-   | i-     | neni-  |
 |:----|:------------|:-----|:-----|:------|:-------|:-------|
 |     |             | ?    | !    | *all* | *some* | *none* |
-| -o  | *what*      | kio  | tio  | ĉio   | io     | nenio  |
-| -u  | *which*     | kiu  | tiu  | ĉiu   | iu     | neniu  |
-| -a  | *what kind* | kia  | tia  | ĉia   | ia     | nenia  |
-| -el | *how*       | kiel | tiel | ĉiel  | iel    | neniel |
-| -e  | *where*     | kie  | tie  | ĉie   | ie     | nenie  |
-| -am | *when*      | kiam | tiam | ĉiam  | iam    | neniam |
-| -al | *why*       | kial | tial | ĉial  | ial    | nenial |
-| -om | *how much*  | kiom | tiom | ĉiom  | iom    | neniom |
-| -es | *whose*     | kies | ties | ĉies  | ies    | nenies |
+| -o  |  📦            | kio  | tio  | ĉio   | io     | nenio  |
+| -u  |  *welch-* / 🙋 | kiu  | tiu  | ĉiu   | iu     | neniu  |
+| -a  |  🟢🟥💛🔷      | kia  | tia  | ĉia   | ia     | nenia  |
+| -el |  🐌 / 🏃       | kiel | tiel | ĉiel  | iel    | neniel |
+| -e  |  🗺📍          | kie  | tie  | ĉie   | ie     | nenie  |
+| -am |  🗓️ 🕰         | kiam | tiam | ĉiam  | iam    | neniam |
+| -al |  💣 ⟹ 💥       | kial | tial | ĉial  | ial    | nenial |
+| -om |  🔢            | kiom | tiom | ĉiom  | iom    | neniom |
+| -es |  🏷            | kies | ties | ĉies  | ies    | nenies |
 
 
 ## Some important "small" words
