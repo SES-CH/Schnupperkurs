@@ -139,10 +139,10 @@ vidi, aŭdi, ami, manĝi, trinki, drinki, …
 Mi amas vin. – Ni trinkas ĉunkon. – Ili manĝas picon.
 
 
-## Substantive
+## Substantive / Nomen
 
-* *-o* (kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
-* plural: *-j* (kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
+* *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
+* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
 
 
 ## Adjektive
