@@ -160,8 +160,8 @@ La kanto estas bel*a* kaj ŝi bel*e* kantis ĝin.
 
 ## Ja/Nein Fragen
 
-* **Ĉu** vi ŝatas iri al DemoZ?
-* *Jes*, mi ŝatas iri al DemoZ. / *Ne*, mi ne ŝatas iri al DemozZ.
+* **Ĉu** vi ŝatas la kongreson?
+* *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatas la kongreson.
 
 ## Akkusativ
 
