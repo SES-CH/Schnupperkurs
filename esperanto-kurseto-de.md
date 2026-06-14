@@ -61,7 +61,7 @@ Villa Ritter estas junulara renkontejo kaj kulturcentro en Bielo.
 KoSino estas ĉiujara evento de la ĥaoskomputila klubo svisa.
 
 
-# Alphabet und Phonetik
+# Alphabet und Aussprache
 
 ## Regeln
 
