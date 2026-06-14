@@ -73,26 +73,28 @@ KoSino estas ĉiujara evento de la ĥaoskomputila klubo svisa.
 
 ## Das Alphabet
 
-Übliches lateinisches Alphabet mit ein paar Änderungen
+Basierend auf dem lateinischen Alphabet, **aber**
 
-* kein "w" – stattdessen "v"  (Vindozo)
+* kein "w" – nur "v" (Vindozo)
 * kein "x" – stattdessen "ks" (Linukso)
-* kein "y" – stattdessen "i"
-* "c" wie das deutsche "z", "z" wie das englische "z"
+* kein "y" – nur "i"
+* "c" wie deutsches "z" (/t͡s/)
+* "z" wie englisches "z" (stimmhaft)
 
 ---
 
-Ein paar spezielle Buchstaben (Diakritika)
+Esperanto-spezifische Buchstaben (Diakritika)
 
-* ŝ – wie das "sch" im Deutschen "Fisch"
-* ĉ - wie das "tsch" im Deutschen "Autsch"
-* ĝ – wie das "j" im Deutschen "Jungle"
-* ĵ - wie das "j" im Deutschen "Journalist"
-* ĥ - wie das "ch" im Deutschen "Bach"
-* ŭ – wie "u" als Halbvokal
+* ŝ – wie "sch" in "**sch**ön"
+* ĉ – wie "tsch" in "**Tsch**echien"
+* ĝ – wie "Dsch" in "**Dsch**ungel" (stimmhaft)
+* ĵ – wie "J" in "**J**ounalist"
+* ĥ – wie "ch" in "Ba**ch**"
+* ŭ – wie "u" (Halbvokal)
 
-Die Buchstaben "j" und "ŭ" sind so genannte *Halbvokale*. Das bedeutet, sie
-haben keine eigne Silbe sondern Formen einen Diphthong.
+Die Buchstaben "j" und "ŭ" sind sogenannte "Halbvokale".
+Sie werden fast wie die Vokale "i" und "u" ausgesprochen,
+bilden aber keine eigenen Silben, sondern Diphthonge.
 
 
 # Grammatik

@@ -73,26 +73,29 @@ KoSino estas ĉiujara evento de la ĥaoskomputila klubo svisa.
 
 ## The alphabet
 
-Straight forward Latin alphabet with the following quirks
+Based on Latin alphabet, **but**
 
-* no "w" – "v" is used instead (Vindozo)
+* no "w" – just "v" (Vindozo)
 * no "x" – "ks" is used instead (Linukso)
-* no "y" – "i" is used instead
-* "c" is like the German "z", "z" is like the English "z"
+* no "y" – just "i"
+* "c" is like the German "z" (/t͡s/)
+* "z" is like the English "z" (voiced)
 
 ---
 
-Some special characters
+Some special characters (diacritics)
 
-* ŝ – like English "sh" like in "fish"
-* ĉ - like the "ch" in English "ouch"
-* ĝ – like the "j" in English "jungle"
-* ĵ - like the "j" in German "Journalist"
-* ĥ - like the "ch" in German "Bach"
-* ŭ – like "u" half vowel
+* ŝ – like English "sh" like in "fi**sh**"
+* ĉ - like the "ch" in English "ou**ch**"
+* ĝ – like the "j" in English "**j**ungle"
+* ĵ - like the "j" in French or German "**J**ournalist"
+* ĥ - like the "ch" in German "Ba**ch**"
+* ŭ – like "u" (half vowel)
 
-The letters "j" and "ŭ" are so called *half vowels*, that means they don't have
-a syllable on their own but form a diphthong.
+The letters "j" and "ŭ" are so called *half vowels*.
+They're pronounced almost like the vowels "i" and "u",
+but don't form a syllable of their own,
+but a diphthong.
 
 
 # Some grammar basics
