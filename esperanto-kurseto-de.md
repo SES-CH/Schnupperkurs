@@ -268,15 +268,15 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Ein paar wichtige "kleine" Wörter
 
-* kaj – und
-* aŭ – oder
+* kaj – ⋀ (`&&`)
+* aŭ – ⋁ (`||`)
 * la – *bestimmter Artikel*
-* al – zu (hin)
-* de – von
+* al – an / zu / nach / *(Dativ-Objekt)*
+* de – von (Zugehörigkeit / Besitz / Herkunft / Sorte)
 * ke – dass
-* en – in/hinein
-* el – aus/hinaus
-* da – von (als Mengenangabe)
+* en – in
+* el – aus (Herkunft, Material oder Gesamtheit)
+* da – von *(Mengenangabe)*
 * kun – mit · sen – ohne
 * …
 
